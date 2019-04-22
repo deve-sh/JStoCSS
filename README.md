@@ -93,4 +93,4 @@ For any further contact, feel free to [email me](mailto:devesh2027@gmail.com).
 
 ## Disclaimer
 
-Just to disclaim things, I never knew something like JSS existed, so please forgive the fact that this seems like an exact copy of JSS. Peace ✌ .
+Just so everyone knows, I never knew something like JSS existed until I was halfway through the project, so please forgive the fact that this seems like an exact copy of JSS 🤷‍♂️😛. Peace ✌ .
