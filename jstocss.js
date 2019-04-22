@@ -3,7 +3,7 @@
 
 	Author : Devesh Kumar
 
-	For documentation visit : 
+	For documentation visit : https://github.com/deve-sh/JStoCSS
 */
 
 function jscss_transpile(object){

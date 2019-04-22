@@ -6,7 +6,7 @@ Comes with an `jstocss.js` and `jstocss-min.js` file containing the functions. T
 
 ## Usage
 
-To use the transpiler in your application, just download the [file](https://) include the jstocss-min.js file in your file like the following :
+To use the transpiler in your application, just download the [file](https://raw.githubusercontent.com/deve-sh/JStoCSS/master/jstocss-min.js) include the jstocss-min.js file in your file like the following :
 
 ```html
 <script src='jstocss-min.js'></script>
